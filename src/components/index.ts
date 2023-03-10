@@ -7,4 +7,4 @@ export { default as Loading } from "./Loading";
 export { default as DeleteButton } from "./DeleteButton";
 export { default as Input } from "./Input";
 export { default as TypeCard } from "./TypeCard";
-export { default as Modal } from "./Modal";
+
